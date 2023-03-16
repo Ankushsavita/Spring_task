@@ -1,0 +1,5 @@
+insert into TBL_USER(user_name, name, email, password, gender, phone_number, address) values('ankush', 'Ankush savita','ankushsavita2001@gmail.com', 'ak@123', 'male', '9870811484', 'Agra');
+insert into TBL_USER(user_name, name, email, password, gender, phone_number, address) values('vikash', 'vikash verma','vikashverm2198@gmail.com', 'vksh@123', 'male', '9576576076', 'Mathura');
+insert into TBL_USER(user_name, name, email, password, gender, phone_number, address) values('priyanka', 'priyanka kumari','priyank2003@gmail.com', 'pk@123', 'female', '9987608549', 'Varanasi');
+insert into TBL_USER(user_name, name, email, password, gender, phone_number, address) values('mohit', 'mohit goyal','mohitgoyal21998@gmail.com', 'ak@123', 'male', '9245678980', 'Ayodhya');
+insert into TBL_USER(user_name, name, email, password, gender, phone_number, address) values('riya', 'Riya sharma','riyasharma1999@gmail.com', 'rk@123', 'female', '9760548484', 'Delhi');
